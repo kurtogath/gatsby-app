@@ -10,6 +10,7 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --grey: #efefef;
   }
+  
   html {
     background-image: url(${bg});
     background-size: 450px;
